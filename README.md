@@ -1,7 +1,7 @@
 - 👋 Hi, I’m <b>@RushiY</b>
 - 👀 I’m interested in <b>mathematics and computer science</b>
 - 🌱 I’m currently learning <b>how to move into college lol</b>
-- 💞️ I’m looking to collaborate on <b>computer science/statistical analysis research</b>
+- 💞️ I’m currently collaborating on <b>computational astrophysics with Dr. Yuan Li and Dr. Mark Albert</b>
 - 📫 How to reach me <b>Rushi.Yalamanchili@my.unt.edu</b>
 
 <!---
